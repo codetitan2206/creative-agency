@@ -4,7 +4,7 @@ import Footer from "./components/Layouts/Footer";
 
 function App() {
   return (
-    <div className="min-h-screen bg-gray-950 border-yellow-500 rounded-lg">
+    <div className="min-h-screen bg-[#030303]">
       <Router>
         <Header />
         <main className="container mx-auto px-4 py-8 border border-blue-500 rounded-lg">
